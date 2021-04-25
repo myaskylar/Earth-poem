@@ -6,4 +6,10 @@ soil
 water
 fire
 air
+modern earth 
+buildings
+vahicles
+satellite
+nuclear
 this makes a world
+
