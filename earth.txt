@@ -6,3 +6,6 @@ soil
 water
 fire
 air
+modern earth 
+buildings
+vahicles
