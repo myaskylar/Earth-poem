@@ -9,3 +9,5 @@ air
 modern earth 
 buildings
 vahicles
+satellite
+nuclear
