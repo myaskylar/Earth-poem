@@ -2,3 +2,6 @@ Mother earth
 green
 blue
 brown
+soil
+water
+fire
